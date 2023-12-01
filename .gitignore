@@ -1,0 +1,8 @@
+# Modules
+node_modules
+
+# ENV
+.env
+
+# Build project
+dist
